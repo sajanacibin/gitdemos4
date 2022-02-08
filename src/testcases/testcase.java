@@ -22,7 +22,8 @@ public class testcase {
 		hp.ButtonClick().click();
 		System.out.println("changes made");
 		
-		
+		System.out.println("changes are made");
+		System.out.println("changes are done");
 		
 	}
 
