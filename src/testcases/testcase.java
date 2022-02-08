@@ -18,7 +18,9 @@ public class testcase {
 		homepage hp=new homepage(driver);
 		hp.username().sendKeys("hello");
 		hp.Password().sendKeys("password");
+		
 		hp.ButtonClick().click();
+		System.out.println("changes made");
 		
 		
 		
